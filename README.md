@@ -7,6 +7,10 @@
 ## 📌 Overview
 A mobile app for buying/selling art paintings, developed during my 6th semester in **Mobile App Development**. Designed with a focus on **clean aesthetics** and **intuitive navigation** for art enthusiasts.
 
+- **Module:** Mobile App Development
+- **Academic Year:** 3rd year, 6th semester
+- **Course:** Computer Systems
+
 ## ✨ Features
 | Feature          | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
