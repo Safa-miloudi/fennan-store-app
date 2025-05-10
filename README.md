@@ -1,7 +1,7 @@
 #  Fennan Store - Art Marketplace Mobile App
 
 <div align="center">
-  <img src="Fennan store.png" alt="App Cover" width="300">  
+  <img src="fennan-store-app/UI-UX/Fennan store.png" alt="App Cover" width="300">  
 </div>
 
 ## 📌 Overview
@@ -28,14 +28,14 @@ A mobile app for buying/selling art paintings, developed during my 6th semester 
 ### Key Screens
 1. **Homepage**  
    *Featured artists + category filters*
-
+<img src="fennan-store-app/UI-UX/Fennan store.png">
 2. **Product View**  
    *High-res artwork preview with artist details*
+<img src="fennan-store-app/UI-UX/Fennan store.png">
 
 3. **Checkout Flow**  
    *Simplified 3-step process*
-
-*(Replace with your actual screenshots)*
+<img src="fennan-store-app/UI-UX/Fennan store.png">
 
 ## 🛠 Tech Stack
 - **Frontend:** React Native (or your framework)
