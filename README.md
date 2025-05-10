@@ -1,7 +1,7 @@
 #  Fennan Store - Art Marketplace Mobile App
 
 <div align="center">
-  <img src="fennan-store-app/UI-UX/Fennan store.png" alt="App Cover" width="300">  
+  <img src="UI-UX/Fennan store.png" alt="App Cover" width="300">  
 </div>
 
 ## 📌 Overview
