@@ -26,16 +26,26 @@ A mobile app for buying/selling art paintings, developed during my 6th semester 
 - **Micro-interactions:** Smooth transitions between screens
 
 ### Key Screens
-1. **Homepage**  
+1. **WelcomePage and login-signup pages**  
+   *To connect to ur account or create one*
+<img src="UI-UX/Welcome.png">
+<img src="UI-UX/Log in.png">
+<img src="UI-UX/Sign up.png">
+2. **Homepage**  
    *Featured artists + category filters*
-<img src="fennan-store-app/UI-UX/Fennan store.png">
-2. **Product View**  
+<img src="UI-UX/Home page.png">
+3. **Product View**  
    *High-res artwork preview with artist details*
-<img src="fennan-store-app/UI-UX/Fennan store.png">
-
-3. **Checkout Flow**  
+<img src="UI-UX/Paint art.png">
+4. **Painter Profile**  
+   *artist details*
+<img src="UI-UX/Creator profile.png">
+5. **Checkout Flow**  
    *Simplified 3-step process*
-<img src="fennan-store-app/UI-UX/Fennan store.png">
+<img src="UI-UX/Checkout - Payment Method.png">
+<img src="UI-UX/Checkout - Cart 2.png">
+<img src="UI-UX/Checkout - Payment Success.png">
+<img src="UI-UX/Checkout - Payment Fail.png">
 
 ## 🛠 Tech Stack
 - **Frontend:** React Native (or your framework)
